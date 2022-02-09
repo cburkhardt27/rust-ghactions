@@ -1,6 +1,6 @@
 [package]
 name = "rust-ghactions"
-version = "0.1.3"
+version = "0.1.4"
 edition = "2021"
 description = "test-random-cr8"
 license = "MIT"
